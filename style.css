@@ -29,7 +29,7 @@ body {
   height: 100vh;
 }
 
-body* {
+body * {
   font-family: "Inter", sans-serif;
   color: var(--text-color);
 }
