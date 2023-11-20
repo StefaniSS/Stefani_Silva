@@ -30,7 +30,7 @@ body {
 }
 
 body* {
-  font-family: "Playpen Sans", cursive;
+  font-family: "Inter", sans-serif;
   color: var(--text-color);
 }
 #container {
